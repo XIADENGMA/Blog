@@ -2,11 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boxfish</title>
-    <link>http://localhost:37973/</link>
+    <link>http://localhost:42233/</link>
     <description>Recent content on Boxfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2024 xiadengma</copyright>
-    <atom:link href="http://localhost:37973/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="http://localhost:42233/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:42233/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:42233/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:42233/posts/another-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:42233/posts/another-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:42233/posts/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:42233/posts/first-post/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

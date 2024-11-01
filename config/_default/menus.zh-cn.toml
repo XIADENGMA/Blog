@@ -1,0 +1,33 @@
+# config/_default/menus.toml
+
+[[main]]
+name = "Blog"
+pageRef = "posts"
+weight = 10
+
+[[main]]
+name = "Topics"
+pageRef = "topics"
+weight = 20
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 30
+
+
+[[main]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/nunocoracao/blowfish"
+weight = 40
+
+
+[[footer]]
+name = "浙ICP备20005376号-2"
+url = "https://beian.miit.gov.cn/#/Integrated/recordQuery"
+identifier = "k7u7xNUNdt"
+weight = 9999
+
+[[params]]
+copyright = "Copyright © 2019-{year} {author.name}"

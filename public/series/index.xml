@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Boxfish</title>
-    <link>http://localhost:37973/series/</link>
+    <link>http://localhost:42233/series/</link>
     <description>Recent content in Series on Boxfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2024 xiadengma</copyright>
-    <atom:link href="http://localhost:37973/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="http://localhost:42233/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

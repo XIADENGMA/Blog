@@ -1,0 +1,16 @@
+disabled = false
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 1
+title = "Boxfish"
+
+[params]
+displayName = "ZH-CN"
+isoCode = "zh-cn"
+rtl = false
+
+[author]
+name = "xiadengma"
+headline = "标题headline"
+title = "标题title"
+bio = "格言bio"
